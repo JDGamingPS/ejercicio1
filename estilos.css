@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.texto-azul{
+    color: blue;
+}
+
+.tamaño-letra{
+    font-size: 16px;
+}
+
+.bg-verde-claro{
+    background-color: #CFC;
+}
+
+.color-rojo{
+    color: #F00;
+    font-size: 32px;
+}
+
+.color-rojo2{
+    color: #A00;
+    font-size: 24px;
+}
+
+.verde-oscuro{
+    color: #060;
+    font-size: 20px;
+}
+
+.mark{
+    color: #FFF;
+    background-color: #000;
+    font-style: italic;
+}
